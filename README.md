@@ -10,4 +10,4 @@ Basic concepts of deep learning using pytorch is implemented above. Model for Bo
 
 To download the code for this project, you can clone this GitHub repository using the following command:
 
-```git clone https://github.com/Amritha-07/Image-Captioning.git```
+```git clone https://github.com/Amritha-07/Pytorch-Deep-Learning.git```
