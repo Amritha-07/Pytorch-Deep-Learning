@@ -5,3 +5,9 @@ Basic concepts of deep learning using pytorch is implemented above. Model for Bo
 ## Tech-Stack
 
 - Python
+
+## Insallation and Usage
+
+To download the code for this project, you can clone this GitHub repository using the following command:
+
+```git clone https://github.com/Amritha-07/Image-Captioning.git```
